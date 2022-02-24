@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/website?label=renatogaray.dev&style=for-the-badge&url=https%3A%2F%2Frenatogaray.dev)](https://renatogaray.dev)
 [![Follow me on GitHub](https://img.shields.io/badge/github-renatogm24-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatogm24)
 [![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-renatogaray-blue?style=for-the-badge&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/renatogaray)
+![Profile counter](https://komarev.com/ghpvc/?username=renatogm24&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -18,6 +19,7 @@
 - 👯 I’m looking to collaborate with other developers in order to keep learning
 - 🥅 2022 Goals: Join a FullStack Team
 - ⚡ Fun fact: I love to listen and dance salsa music
+- 📫 How to reach me **renatogaraym@gmail.com** or **renato.garay@pucp.pe**
 
 ## GitHub Stats:
 
