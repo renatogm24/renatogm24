@@ -14,7 +14,7 @@
 ## I'm a FullStack Developer
 
 - 👨‍🎓 Telecommunication Engineer Bachelor, [PUCP](https://www.pucp.edu.pe/) December 2017
-- 🎓 Graduated from [Coding Dojo](https://www.codingdojo.com/)'s Bootcamp in 2022 (Flask, Java, MERN)
+- 🎓 Graduated from [Coding Dojo](https://www.codingdojo.com/)'s Bootcamp in 2022 (Flask, Spring, MERN)
 - 🌱 I’m currently learning about Docker, GraphQL and everything I find on the road 🤣
 - 👯 I’m looking to collaborate with other developers in order to keep learning
 - 🥅 2022 Goals: Join a FullStack Team
