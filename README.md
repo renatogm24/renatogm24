@@ -10,13 +10,13 @@
 
 </div>
 
-## I'm a FullStack Developer
+## I'm a Software Developer
 
 - 👨‍🎓 Telecommunication Engineer Bachelor, [PUCP](https://www.pucp.edu.pe/) December,2017
 - 🎓 Graduated from [Coding Dojo](https://www.codingdojo.com/)'s Bootcamp in 2022 (Flask, Spring, MERN)
 - 🌱 I’m currently learning about Docker, GraphQL and everything I find on the road 🤣
 - 👯 I’m looking to collaborate with other developers in order to keep learning
-- 🥅 2022 Goals: Join a Sofware Development Team
+- 🥅 2022 Goals: Get Java Oracle Certification
 - ⚡ Fun fact: I love to listen and dance salsa music
 - 📫 How to reach me **renatogaraym@gmail.com** or **renato.garay@pucp.pe**
 
