@@ -4,7 +4,6 @@
 
 # Hello there, I'm Renato 👋
 
-[![Website](https://img.shields.io/website?label=renatogaray.dev&style=for-the-badge&url=https%3A%2F%2Fwww.renatogaray.dev/en)](https://www.renatogaray.dev/en)
 [![Follow me on GitHub](https://img.shields.io/badge/github-renatogm24-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatogm24)
 [![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-renatogaray-blue?style=for-the-badge&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/renatogaray)
 ![Profile counter](https://komarev.com/ghpvc/?username=renatogm24&label=Profile%20views&color=0e75b6&style=for-the-badge)
