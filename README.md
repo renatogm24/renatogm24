@@ -10,15 +10,21 @@
 
 </div>
 
-## I'm a Software Developer
+## I'm a Backend Engineer
 
-- 👨‍🎓 Telecommunication Engineer Bachelor, [PUCP](https://www.pucp.edu.pe/) December,2017
-- 🎓 Graduated from [Coding Dojo](https://www.codingdojo.com/)'s Bootcamp in 2022 (Flask, Spring, MERN)
-- 🌱 I’m currently learning about Docker, GraphQL and everything I find on the road 🤣
-- 👯 I’m looking to collaborate with other developers in order to keep learning
-- 🥅 2022 Goals: Get Java Oracle Certification
-- ⚡ Fun fact: I love to listen and dance salsa music
-- 📫 How to reach me **renatogaraym@gmail.com** or **renato.garay@pucp.pe**
+- 👨‍💻 Experienced in **Java**, **Kotlin**, **Python**, and **TypeScript**.
+- 🔍 **Elasticsearch Expert**, with a deep understanding of search functionalities, data ingestion, and optimizations.
+- 📊 Hands-on with databases like **MongoDB** and **MySQL**.
+- 🎓 Telecommunication Engineer, [PUCP](https://www.pucp.edu.pe/) December, 2017.
+- 🎓 Graduate of [Coding Dojo](https://www.codingdojo.com/)'s Bootcamp (Flask, Spring, MERN).
+- 🚀 Recently contributed to the [Elasticsearch Java Client](https://github.com/elastic/elasticsearch-java/pull/587) with new features for pipeline setup.
+- 🌱 Always learning new technologies. Currently exploring GraphQL, and expanding my knowledge of distributed systems.
+- ⚡ Fun fact: I’m passionate about salsa music and dancing.
+
+## Recent Achievements:
+
+- 🚀 **Elasticsearch Contributions**: Recently contributed to [Elasticsearch Java Client](https://github.com/elastic/elasticsearch-java/releases/tag/v8.9.0), adding pipeline setup for indexing operations. Check out the [release here](https://github.com/elastic/elasticsearch-java/releases/tag/v8.9.0).
+- 📚 Continuously refining search capabilities using **ML vector embeddings**, **synonyms**, **geo searches**, and **fine-tuning boost templates**.
 
 ## GitHub Stats:
 
@@ -29,50 +35,31 @@
 
 <br />
 
-## Languages and Tools:
-
-### Frontend:
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />
-
-<br>
-
-<br>
+## Technologies I Use:
 
 ### Backend:
 
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 
 <br>
 
-### Database:
+### Databases:
 
+<img align="left" alt="Elasticsearch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 
 <br />
 
-### Extra:
+### Extra Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
 
 <br />
 
