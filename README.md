@@ -9,9 +9,8 @@ Recent example: [transcribe-local](https://github.com/renatogm24/transcribe-loca
 a local Whisper transcription tool designed to be installed by your AI assistant.
 
 Previously: search and relevance for Disney's digital properties, running
-hybrid keyword + semantic retrieval in production. Along the way I found and
-[fixed upstream](https://github.com/elastic/elasticsearch-java/pull/587) a bug
-in the official Elasticsearch Java client, where bulk index/create operations
-ignored their per-operation ingest pipeline.
+hybrid keyword + semantic retrieval in production, and a
+[contribution upstream](https://github.com/elastic/elasticsearch-java/pull/587)
+to the official Elasticsearch Java client.
 
 [LinkedIn](https://www.linkedin.com/in/renatogaray) · renatogaraym@gmail.com
